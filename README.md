@@ -1,7 +1,7 @@
 # STM32CubeF2 MCU Firmware Package
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/STM32CubeF2.svg?color=brightgreen)
-![GitHub All Releases](https://img.shields.io/github/downloads/RKOUSTM/STM32CubeF2_actions/total.svg?label=downloads%20since%201.8.0)
+![GitHub All Releases](https://img.shields.io/github/downloads/RKOUSTM/STM32CubeF2/total.svg?label=downloads%20since%201.8.0)
 
 **STM32Cube** is an STMicroelectronics original initiative to ease developers' life by reducing efforts, time and cost.
 
